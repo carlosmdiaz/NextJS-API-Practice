@@ -9,8 +9,6 @@ function HomePage() {
 
     const enteredEmail = emailInputRef.current.value;
     const enteredFeedback = feedbackInputRef.current.value;
-
-    
   }
 
   return (
